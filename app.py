@@ -20,7 +20,7 @@ st.set_page_config(
 )
 
 #Title
-st.title("ai.jpg Gemini AI Chatbot")
+st.title(" Gemini AI Chatbot")
 
 st.write("Ask Gemini anything!")
 
